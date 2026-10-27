@@ -1,0 +1,11 @@
+Polvo: motor de nube de puntos en WebGL2
+
+Convierte hasta cuatro imágenes en una nube de 262.144 puntos.
+Profundidad estimada en el navegador (luminancia, saturación,
+nitidez y sesgo al centro), recorte automático del fondo,
+morph entre imágenes y pincel que dispersa bajo el cursor.
+
+Un solo archivo HTML, sin librerías ni build.
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01Y4PHThtGX7vSGmBYuCut2G
